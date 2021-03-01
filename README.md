@@ -1,2 +1,2 @@
-# MyWebBrowser
-Web browser in csharp
+# navegador
+navegador in csharp
